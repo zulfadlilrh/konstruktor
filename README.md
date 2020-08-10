@@ -1,0 +1,2 @@
+# konstruktor
+tugas konstruktor
